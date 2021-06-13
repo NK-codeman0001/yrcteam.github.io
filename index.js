@@ -162,21 +162,7 @@ let data = [
       Sword: "No Hints (❁´◡`❁)",
     },
      
-    {
-      id:14,
-      Position : "YRC Technical Head 1",
-      Lname: "Elesh",
-      Lpic:"https://drive.google.com/open?id=1jR_GPimV0eMv7eGebdJhtfxCkqi6ZefG",
-      Sword: "No Hints (❁´◡`❁)",
-    },
-     
-    {
-      id:15,
-      Position : "YRC Technical Head 2",
-      Lname: "Kartik",
-      Lpic:"https://drive.google.com/open?id=1v4xWTVNX9VUzMicoiqQf3Z6WqpPegmcv",
-      Sword: "No Hints (❁´◡`❁)",
-    },
+   
     {
       id:16,
       Position : "Jsec1",
