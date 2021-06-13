@@ -81,7 +81,7 @@ let data = [
       Position : "YRC Session head 2",
       Lname: "Simran",
       Lpic:"https://drive.google.com/file/d/1dHKddLkOCw981Iec-cnjXTpnI6GNfRDV/view?usp=sharing",
-      Sword:`Hint 1: Ja ___ -_____, jille apni zindagi`,
+      Sword:`Hint 1: Ja ______, jille apni zindagi`,
     },
     {
       id: 6,
@@ -94,7 +94,7 @@ let data = [
       id:7,
       Position : "YRC Session head 4",
       Lname: "Manish",
-      Lpic:"https://drive.google.com/open?id=1941qT6qcUM1jNiKQamsTyTlhq4a7t0ZZ",
+      Lpic:"https://drive.google.com/file/d/1ErTxtQR9R9Ytboh8KaNWTb79iO8GbYYI/view?usp=sharing",
       Sword: "No HInts (⊙_⊙;)",
     },
     {
@@ -157,7 +157,7 @@ let data = [
       id:14,
       Position : "Jsec1",
       Lname: "Jagriti",
-      Lpic:"https://drive.google.com/file/d/1dI3VkNUCJdCXXN55Ppr6B6DySkYSSIoZ/view?usp=sharing",
+      Lpic:"https://drive.google.com/file/d/1-ggQ6VvkvssNcI8uhzbI8IT1A4jKvCRz/view?usp=sharing",
       Sword:`Hi people
       I m not gonna tell you who I m but by some line you can guess me 
       I m that person which 
@@ -191,7 +191,13 @@ let data = [
       Lpic:"https://drive.google.com/open?id=1GwB6DBngGgAzKdsXx8JAPOobFpcBwi9b",
       Sword: "No Hints (❁´◡`❁)",
     },
-    
+    {
+      id: 18,
+      Position : "😎🐱",
+      Lname: "Neeraj",
+      Lpic:"https://drive.google.com/file/d/1bxn-_zLzDTK_Rw2BDkxJ5uCr3pPLE4vK/view?usp=sharing",
+      Sword: "ISke leye bhi Hint chaheye tumhe 😥😥",
+    },
     
 ]
 
