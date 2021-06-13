@@ -164,7 +164,7 @@ let data = [
      
    
     {
-      id:16,
+      id:14,
       Position : "Jsec1",
       Lname: "Arpit",
       Lpic:"https://drive.google.com/open?id=1GwB6DBngGgAzKdsXx8JAPOobFpcBwi9b",
@@ -172,21 +172,21 @@ let data = [
     },
     
     {
-        id:17,
+        id:15,
         Position : "Jsec2",
         Lname: "Sahil",
         Lpic:"https://drive.google.com/file/d/1M7Ho7zXhDs9FRwLuWLLZAUzaDYw2I3KK/view?usp=sharing",
         Sword: "No Hints ╰(*°▽°*)╯",
     },
     {
-        id:18,
+        id:16,
         Position : "Jsec3",
         Lname: "Yogita",
         Lpic:"https://drive.google.com/open?id=1slNQCHvOGglO1SssDM-7DjIxkoqDbrPu",
         Sword: "No Hints ༼ つ ◕_◕ ༽つ",
     },
     {
-      id:19,
+      id:17,
       Position : "Jsec4",
       Lname: "Manish",
       Lpic:"https://drive.google.com/open?id=1941qT6qcUM1jNiKQamsTyTlhq4a7t0ZZ",
