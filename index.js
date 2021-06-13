@@ -201,7 +201,7 @@ let viewCards = () =>{
         </div>
         <div class="card text-center" >
         <div class="card-body">
-        <button href="#top" onclick="expandCard(${key})" class="btn btn-primary" type="button"> <h2 class="card-title">${curValue.Position}</h2></button> 
+        <button onclick="expandCard(${key})" class="btn btn-primary" type="button"> <h2 class="card-title">${curValue.Position}</h2></button> 
         
       </div>`;
     document.getElementById('dataCards').innerHTML = pCards ;
@@ -214,11 +214,11 @@ let expandCard=(key)=>{
         if(key===curValue.id){
             let pCard ='';
             pCard += `<div class="card text-center">
-            <div class="card-body" id="top">
+            <div class="card-body" >
               <h1 class="card-title bg-primary bg-gradient border border-primary rounded-pill ">${curValue.Position}</h1>
               <div id="guess">
               <h1 class="card-text border border-primary">${curValue.Sword}</h1>
-              <h1 class="card-text"><small class="text-muted"><input  class="form-control" type="text" value="" placeholder =" Guess the Leaders" id="guessedWord"></small></h1>
+              <h1 class="card-text"><small class="text-muted"><input  class="form-control" type="text" value=""  autocomplete="off" placeholder =" Guess the Leaders" id="guessedWord"></small></h1>
               <button onclick="guess(${key})" class="btn btn-primary" type="button">Guess It</button>
               </div>
             </div>
