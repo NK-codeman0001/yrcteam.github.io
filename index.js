@@ -91,7 +91,14 @@ let data = [
       Sword:`very uniquiue name meaning Radha(Beloved of Kanha - Lord Krishna) `,
     },
     {
-      id: 7,
+      id:7,
+      Position : "YRC Session head 4",
+      Lname: "Manish",
+      Lpic:"https://drive.google.com/open?id=1941qT6qcUM1jNiKQamsTyTlhq4a7t0ZZ",
+      Sword: "No HInts (⊙_⊙;)",
+    },
+    {
+      id: 8,
       Position : "YRC Social Media Head 1",
       Lname: "Nishu",
       Lpic:"https://drive.google.com/file/d/1cfwVqDsHhRF6XXyMBOhegtVNvYsG3nQt/view?usp=sharing",
@@ -101,7 +108,7 @@ let data = [
       Ms. Refreshment`,
     },
     {
-      id: 8,
+      id: 9,
       Position : " YRC Social Media Head 2",
       Lname: "Kritika",
       Lpic:"https://drive.google.com/file/d/1uiWT6_X6Z0gXO3drC8b6nfQ5buhE_8Z5/view?usp=sharing",
@@ -114,29 +121,13 @@ let data = [
     },
     
     {
-      id: 9,
+      id: 10,
       Position : "YRC Designing Head 1",
       Lname: "Guranshish",
       Lpic:"https://drive.google.com/file/d/1jRbKugSiKJn8vYRuXGc586lcL8PAMqhb/view?usp=sharing",
       Sword:`M khud kaise batau 😅😅😂😁`,
     },
     
-    {
-      id: 10,
-      Position : "YRC Designing Head 2",
-      Lname: "Jagriti",
-      Lpic:"https://drive.google.com/file/d/1dI3VkNUCJdCXXN55Ppr6B6DySkYSSIoZ/view?usp=sharing",
-      Sword:`Hi people
-      I m not gonna tell you who I m but by some line you can guess me 
-      I m that person which 
-      I like to be creative and also love to do craft
-      I m your senior but by seeing me you will never say she is our senior 😁😁
-      l love to do digital arts and also working for designing team
-      I m humble and also so quite person
-      Some of people say me that i m innocent but 😏 they don't know who I am 😁😁
-      I m a black lover🖤
-      Bas aage jisne pehchaan liya usko meri trf se 10 - 10 rupye paytm 😅`,
-    },
     
     {
       id: 11,
@@ -165,9 +156,18 @@ let data = [
     {
       id:14,
       Position : "Jsec1",
-      Lname: "Arpit",
-      Lpic:"https://drive.google.com/open?id=1GwB6DBngGgAzKdsXx8JAPOobFpcBwi9b",
-      Sword: "No Hints (❁´◡`❁)",
+      Lname: "Jagriti",
+      Lpic:"https://drive.google.com/file/d/1dI3VkNUCJdCXXN55Ppr6B6DySkYSSIoZ/view?usp=sharing",
+      Sword:`Hi people
+      I m not gonna tell you who I m but by some line you can guess me 
+      I m that person which 
+      I like to be creative and also love to do craft
+      I m your senior but by seeing me you will never say she is our senior 😁😁
+      l love to do digital arts and also working for designing team
+      I m humble and also so quite person
+      Some of people say me that i m innocent but 😏 they don't know who I am 😁😁
+      I m a black lover🖤
+      Bas aage jisne pehchaan liya usko meri trf se 10 - 10 rupye paytm 😅`,
     },
     
     {
@@ -185,12 +185,14 @@ let data = [
         Sword: "No Hints ༼ つ ◕_◕ ༽つ",
     },
     {
-      id:17,
+      id: 17,
       Position : "Jsec4",
-      Lname: "Manish",
-      Lpic:"https://drive.google.com/open?id=1941qT6qcUM1jNiKQamsTyTlhq4a7t0ZZ",
-      Sword: "No HInts (⊙_⊙;)",
-  },
+      Lname: "Arpit",
+      Lpic:"https://drive.google.com/open?id=1GwB6DBngGgAzKdsXx8JAPOobFpcBwi9b",
+      Sword: "No Hints (❁´◡`❁)",
+    },
+    
+    
 ]
 
 let viewCards = () =>{
