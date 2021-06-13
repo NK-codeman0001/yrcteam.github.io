@@ -3,7 +3,7 @@ let data = [
         id:1,
         Position : "YRC Cultural Head 1",
         Lname: "Upasna",
-        Lpic:"https://drive.google.com/file/d/1_vU0aqyMyhouJjbdsgQVh19zwPpZSAKL/view?usp=sharing",
+        Lpic:"https://drive.google.com/file/d/15xIzSAE-aRgyIYdrBPKadPh879qXTdIO/view?usp=sharing",
         Sword: `hint 1 : I scared to hug people becoz i fear they can count my bones... 
         hint 2 : Rajma and rice 😂😂`,
     },
@@ -11,7 +11,7 @@ let data = [
         id:2,
         Position : "YRC Cultural Head 2",
         Lname: "Laxmi",
-        Lpic:"https://drive.google.com/file/d/18RuyDqAQewxHrB_ZpYvRJhYkl2JBrdez/view?usp=sharing",
+        Lpic:"https://drive.google.com/file/d/1v7GT-OLZ3T3Y7EJRkdp8oertVMOs6uj3/view?usp=sharing",
         Sword: `hint 1 : Ms. Syska LED
         Hint 2: 12 June 2021
         Baris ki kht pt or tej hwayen, 
@@ -55,7 +55,7 @@ let data = [
         id:3,
         Position : "YRC Cultural Head 3",
         Lname: "Pooja",
-        Lpic:"https://drive.google.com/open?id=1tOSpR_sEEdkbW6RF8-gZOc_gfj_dimC5",
+        Lpic:"https://drive.google.com/file/d/1P553ZLSW_iiinJQQob7XFKwCWI3Mz4Vq/view?usp=sharing",
         Sword: `Hint 1. Guess what guys?? 
         We as a family by our art, skills and unique ideas 
         Creating awareness in youth and world toward health related issues . 
@@ -72,7 +72,7 @@ let data = [
       id: 4,
       Position : "YRC Session head 1",
       Lname: "Mehak",
-      Lpic:"https://drive.google.com/open?id=1-Z6w08E_-6pdUR7TafejZQtqPf9EGPAx",
+      Lpic:"https://drive.google.com/file/d/1OtU4RRaxhMGY76CBdmBSUCNWTv3Wnzp7/view?usp=sharing",
       Sword:`HInt1: Very Nice Anchor
       HInt 2: From BBA Gang`,
     },
@@ -80,21 +80,21 @@ let data = [
       id: 5,
       Position : "YRC Session head 2",
       Lname: "Simran",
-      Lpic:"https://drive.google.com/open?id=1gkQF8a1z1Z8keI_y1H59mD50hfK7drGI",
+      Lpic:"https://drive.google.com/file/d/1dHKddLkOCw981Iec-cnjXTpnI6GNfRDV/view?usp=sharing",
       Sword:`Hint 1: Ja ___ -_____, jille apni zindagi`,
     },
     {
       id: 6,
       Position : "YRC Session head 3",
       Lname: "Kanupriya",
-      Lpic:"https://drive.google.com/open?id=1h149_nQVsacG5B7WSNcLXCC2bK_WtGAe",
+      Lpic:"https://drive.google.com/file/d/1Np1tLgXdDzl_PGNThfHWOuPm3SsSc2tB/view?usp=sharing",
       Sword:`very uniquiue name meaning Radha(Beloved of Kanha - Lord Krishna) `,
     },
     {
       id: 7,
       Position : "YRC Social Media Head 1",
       Lname: "Nishu",
-      Lpic:"https://drive.google.com/file/d/1M4DhKLLWBJ__btkCGmsUom0rbS8iT5tb/view?usp=sharing",
+      Lpic:"https://drive.google.com/file/d/1cfwVqDsHhRF6XXyMBOhegtVNvYsG3nQt/view?usp=sharing",
       Sword:`Frank girl
       Miss fashioplate Social media coordinator
       Baato ki dukaan
@@ -104,7 +104,7 @@ let data = [
       id: 8,
       Position : " YRC Social Media Head 2",
       Lname: "Kritika",
-      Lpic:"https://drive.google.com/open?id=1IjwAyGLJZtxAFsHQU7EQqd7o8digmt-z",
+      Lpic:"https://drive.google.com/file/d/1uiWT6_X6Z0gXO3drC8b6nfQ5buhE_8Z5/view?usp=sharing",
       Sword:`Haste rehne wali
       Mere baal😅
       I m cute😉😛
@@ -117,7 +117,7 @@ let data = [
       id: 9,
       Position : "YRC Designing Head 1",
       Lname: "Guranshish",
-      Lpic:"https://drive.google.com/open?id=14SGz79fk9ymZRo3yxwH-JvHpaNJgNODh",
+      Lpic:"https://drive.google.com/file/d/1jRbKugSiKJn8vYRuXGc586lcL8PAMqhb/view?usp=sharing",
       Sword:`M khud kaise batau 😅😅😂😁`,
     },
     
@@ -125,7 +125,7 @@ let data = [
       id: 10,
       Position : "YRC Designing Head 2",
       Lname: "Jagriti",
-      Lpic:"https://drive.google.com/file/d/116Ab3m25nuEcaJhNQ8IIaf30lAWe3Bdb/view?usp=sharing",
+      Lpic:"https://drive.google.com/file/d/1dI3VkNUCJdCXXN55Ppr6B6DySkYSSIoZ/view?usp=sharing",
       Sword:`Hi people
       I m not gonna tell you who I m but by some line you can guess me 
       I m that person which 
@@ -142,7 +142,7 @@ let data = [
       id: 11,
       Position : "YRC Designing Head 3",
       Lname: "Komal",
-      Lpic:"https://drive.google.com/open?id=1ZS-2x8n8EKruoyOGAPhf8j_aayPrRIF1",
+      Lpic:"https://drive.google.com/file/d/1eCmJztBGDxybtsBWh5Rp7ZQ-Eq-sQS-L/view?usp=sharing",
       Sword:`Ms. Sensitive + ex sgtian`,
     },
      
@@ -150,7 +150,7 @@ let data = [
       id:12,
       Position : "YRC Content Head 1",
       Lname: "Taruni",
-      Lpic:"https://drive.google.com/open?id=1eCfkIqkmgMp4z-55Tz-Mt-Sh4XHTpHer",
+      Lpic:"https://drive.google.com/file/d/1Kt08Bygh_-buXqgNIGNWAKv2ZEwZXSfK/view?usp=sharing",
       Sword: "No Hints (❁´◡`❁)",
     },
      
@@ -158,11 +158,10 @@ let data = [
       id:13,
       Position : "YRC Content Head 2",
       Lname: "Eshaan",
-      Lpic:"https://drive.google.com/open?id=1wobo5XqGqCNxCxJ0bfiilNtVtLfS_tlJ",
+      Lpic:"https://drive.google.com/file/d/1_Xjh9hs9n14HpnBZMWjFd_PukVcFV0c0/view?usp=sharing",
       Sword: "No Hints (❁´◡`❁)",
     },
      
-   
     {
       id:14,
       Position : "Jsec1",
@@ -202,7 +201,7 @@ let viewCards = () =>{
         </div>
         <div class="card text-center" >
         <div class="card-body">
-        <button onclick="expandCard(${key})" class="btn btn-primary" type="button"> <h2 class="card-title">${curValue.Position}</h2></button> 
+        <button href="#top" onclick="expandCard(${key})" class="btn btn-primary" type="button"> <h2 class="card-title">${curValue.Position}</h2></button> 
         
       </div>`;
     document.getElementById('dataCards').innerHTML = pCards ;
@@ -210,11 +209,12 @@ let viewCards = () =>{
 }
 
 let expandCard=(key)=>{
+    document.documentElement.scrollTop = 0;
     data.map((curValue)=>{
         if(key===curValue.id){
             let pCard ='';
             pCard += `<div class="card text-center">
-            <div class="card-body">
+            <div class="card-body" id="top">
               <h1 class="card-title bg-primary bg-gradient border border-primary rounded-pill ">${curValue.Position}</h1>
               <div id="guess">
               <h1 class="card-text border border-primary">${curValue.Sword}</h1>
